@@ -15,7 +15,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     outputs:
       artifact_name: ${{ steps.prepare_artifact.outputs.artifact_name }}
 
@@ -68,7 +68,7 @@ jobs:
   deploy:
     needs: build
     if: success()
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
 
     steps:
       - name: Download Deployment Artifact
