@@ -5,7 +5,7 @@ extra_javascript:
 ---
 # Phantom Documentation Kit
 
-This kit was developed to provide an easy and unique documentation experience for the `Phantom Wireguard` software documentation process.
+This kit was developed to provide an easy and unique documentation experience for the `Phantom-WG` software documentation process.
 When the industrial power and flexibility of the MkDocs library met our needs, the `Phantom Documentation Kit` was born.
 The features and components we needed in the documentation process were developed and gathered under this framework.
 

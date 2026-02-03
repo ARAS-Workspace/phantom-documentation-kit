@@ -5,7 +5,7 @@ extra_javascript:
 ---
 # Phantom Documentation Kit
 
-Bu kit, `Phantom Wireguard` yazılımının dokümantasyon sürecinde kolay ve benzersiz bir dokümantasyon deneyimi sağlamak için geliştirildi.
+Bu kit, `Phantom-WG` yazılımının dokümantasyon sürecinde kolay ve benzersiz bir dokümantasyon deneyimi sağlamak için geliştirildi.
 MkDocs kütüphanesinin endüstriyel gücü ve esnekliği, ihtiyaçlarımızla birleştiğinde `Phantom Documentation Kit` ortaya çıktı.
 Dokümantasyon sürecinde ihtiyacımız olan özellikler ve bileşenler geliştirildi ve bu çatı altında toplandı.  
 

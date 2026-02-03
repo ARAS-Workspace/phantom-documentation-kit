@@ -8,7 +8,7 @@
 
 **🌟 A modern, space-tech themed documentation framework built on MkDocs Material**
 
-Originally developed for Phantom-WireGuard documentation needs, now available as an open-source toolkit.
+Originally developed for Phantom-WG documentation needs, now available as an open-source toolkit.
 
 [Live Demo](https://phantom-documentation-kit.pages.dev/)
 
